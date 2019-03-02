@@ -8,7 +8,9 @@
 </p>
 
 <p align="center">
-	<h2>This project is in the requirements/analysis phase</h2>
+	This project is currently (as of March 1st, 2019) in the requirements/analysis/prototyping phase.
+	See the <a href="https://github.com/JustinBeaudry/figurejs/blob/master/ROADMAP.md">Roadmap</a> 
+	for more information.
 </p>
 
 ## License
@@ -25,5 +27,3 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
-
-[dust_repo]: https://github.com/linkedin/dustjs
