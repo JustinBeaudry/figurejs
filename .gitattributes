@@ -1,0 +1,24 @@
+# auto detect line endings
+* text=auto
+
+# code with type metadata
+*.ts text diff=typescript
+*.md text diff=markdown
+*.json text diff=json
+*.sh text diff=bash
+
+# files without extensions
+LICENSE text
+.editorconfig text
+.gitattributes text
+.gitignore text
+.huskyrc text
+.lintstagedrc text
+.npmrc text
+.nvmrc text
+.prettierrc text
+
+# don't diff these files
+*.js text -diff
+package-lock.json -diff
+*.png binary -diff
